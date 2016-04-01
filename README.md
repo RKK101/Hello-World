@@ -1,2 +1,3 @@
 # Hello-World
-Hhahhahah
+First Repo created
+hello!!! just trying something new! its pretty exciting! :)
